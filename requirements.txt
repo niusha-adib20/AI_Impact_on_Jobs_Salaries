@@ -1,0 +1,20 @@
+# Data manipulation
+pandas
+numpy
+
+# Data visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+
+# Excel file support
+openpyxl
+
+# Model serialization
+joblib
+
+# Jupyter Notebook
+jupyter
+ipykernel
